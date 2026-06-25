@@ -1,8 +1,12 @@
 # Hi there, I'm Abhishek Singh 👋
 
+
 🚀 Full Stack Developer who loves building end-to-end web experiences
+
 💻 Currently working on personal projects & leveling up every day
+
 💼 Actively looking for Full Stack Developer opportunities
+
 ⚡ Fun fact: I debug with `console.log` and I'm not ashamed 😄
 
 ---
